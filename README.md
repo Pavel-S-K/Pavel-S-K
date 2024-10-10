@@ -9,3 +9,8 @@
   </h1>
 </div>
 
+<div id="badges">
+  <a href="https://vk.com/id1212361">
+    <img src="https://img.shields.io/badge/VK-blue"/>
+  </a>
+</div>
