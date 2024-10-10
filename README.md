@@ -11,6 +11,6 @@
 
 <div id="badges"  align="center">
   <a href="https://vk.com/id1212361">
-    <img src="https://img.shields.io/badge/VK-blue?logoSize=auto" width="200"/>
+    <img src="https://img.shields.io/badge/VK-blue?logoSize=auto" width="50"/>
   </a>
 </div>
