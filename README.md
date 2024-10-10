@@ -27,4 +27,5 @@
   
 ### Hobby:
 - :camping: Hiking;
-- :running_man: Running.
+- :running_man: Running;
+- :coffee: coffee.
