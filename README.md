@@ -16,7 +16,14 @@
 </div>
 
 
-### :raising_hand_man: About Me :
-- I’m working as a Control System Engineer;
-- Upgrading my qualifications in Machine Learning and Data Science from 2020. Interested in Time Series field;
-- Hobby: :camping: Hiking , :running_man: Running.
+## :raising_hand_man: About Me
+### Experience:
+- I’m working as a Control System Engineer for 10 years;
+- Upgrading my qualifications in Machine Learning and Data Science from 2020 (4+ years of experience).
+- Successfully completed the course `Machine Learning. Professional` from OTUS Education.
+- Interested in Time Series analysis and forecasting. Done two personal projects in Time Series tasks;
+**Stack:** Python(Base (Pandas, Numpy, SciPy, Math, tqdm) – ML(Scikit-Learn, LightGBM, XGBoost, Catboost) – DL(PyTorch) – Visualization(Matplotlib, Seaborn, Plotly) – Parsing(bs4) – TimeSeries (tslearn, tsfresh).
+  
+### Hobby:
+- :camping: Hiking;
+- :running_man: Running.
