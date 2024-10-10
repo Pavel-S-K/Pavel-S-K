@@ -14,3 +14,9 @@
     <img src="https://img.shields.io/badge/VK-blue?logoSize=auto" width="50"/>
   </a>
 </div>
+
+
+### :raising_hand_man: About Me :
+- I’m working as a Control System Engineer;
+- Upgrading my qualifications in Machine Learning and Data Science from 2020. Interested in Time Series field;
+- Hobby: :camping: Hiking , :running_man: Running.
