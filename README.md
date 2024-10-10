@@ -18,7 +18,7 @@
 
 ## :raising_hand_man: About Me
 ### Experience:
-- I received my knowledge in System analysis, algebra, mathematical optimization, statistics, and probability theory at the 
+- I received my knowledge in system analysis, algebra, mathematical optimization, statistics, and probability theory at the 
 Institute of Information Technologies and Control of SPBSTU;
 - Developed my knowledge by working as a Control System Engineer for 10 years;
 - Upgrading my qualifications in **Machine Learning** and **Data Science** from 2020 (4+ years of experience);
