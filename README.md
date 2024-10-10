@@ -20,7 +20,7 @@
 ### Experience:
 - I received my knowledge in system analysis, algebra, numerical optimization, statistics, and probability theory at the 
 Institute of Information Technologies and Control of SPBSTU;
-- Developed my knowledge by working as a Control System Engineer for 10 years. Have an experience on Project Manager position;
+- Developed my knowledge by working as a Control System Engineer for 10 years. Have a successfull experience on Project Manager position;
 - Upgrading my qualifications in **Machine Learning** and **Data Science** from 2020 (4+ years of experience);
 - Successfully completed the course **"Machine Learning. Professional"** from "OTUS Education" at 2024. Got Certificate of professional development;
 - Interested in "Time Series analysis and forecasting". Done two personal projects in Time Series tasks.
