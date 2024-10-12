@@ -20,12 +20,13 @@
 ### Experience:
 - I received my knowledge in system analysis, algebra, numerical optimization, statistics, and probability theory at the 
 Institute of Information Technologies and Control of SPBSTU;
-- Developed my knowledge by working as a Control System Engineer for 10 years. Have a successfull experience on Project Manager position;
+- Developed my knowledge by working as a Control System Engineer and 
+Project Lead for 10 years;
 - Upgrading my qualifications in **Machine Learning** and **Data Science** from 2020 (4+ years of experience);
 - Successfully completed the course **"Machine Learning. Professional"** from "OTUS Education" at 2024. Got Certificate of professional development;
 - Interested in "Time Series analysis and forecasting". Done two personal projects in Time Series tasks.
 
-**Stack:** Python(Base (Pandas, Numpy, SciPy, Math, tqdm) – ML(Scikit-Learn, LightGBM, XGBoost, Catboost) – DL(PyTorch) – Visualization(Matplotlib, Seaborn, Plotly) – Parsing(bs4) – TimeSeries (tslearn, tsfresh).
+**Stack:** Python(Base (Pandas, Numpy, SciPy, Math, tqdm) – ML(Scikit-Learn, optuna, pipeline, LightGBM, XGBoost, Catboost) – DL(PyTorch) – Visualization(Matplotlib, Seaborn, Plotly) – Parsing(bs4) – TimeSeries (tslearn, tsfresh, sktime) – NLP ( lemmatization, stemming, nltk, TF-IDF, Bag_of_Words) – Git.
   
 ### Hobby:
 - :camping: Hiking;
@@ -37,12 +38,12 @@ Institute of Information Technologies and Control of SPBSTU;
 ## :raising_hand_man: Обо мне
 ### Опыт:
 - Знания по таким направлениям как: системный анализ, линейная алгебра, численная оптимизация, статистика и теория вероятности я получил в Институте информационных технологий и управления СПБГПУ;
-- Развил свои знания и навыки, работая на позициях Инженера по разработке систем управления в течение 10 лет. Имею успешный опыт работы на позиции Ведущего инженера по нескольким проектам;
+- Развил свои знания и навыки, работая на позициях Инженера по разработке систем управления, а также Ведущего инженера по проектам, в течение 10 лет;
 - Развиваю свою квалификацию в направлениях **Machine Learning** и **Data Science** с 2020 (4+ года опыта);
 - Успешно окончил курс **"Machine Learning. Professional"** от школы "OTUS Education" в 2024 г. Получил Удостоверение о повышении квалификации;
 - В настоящее время углубился в "Анализ и прогнозирование временных рядов". Реализовал два собственных проекта по анализу временных рядов (см. репозиторий).
 
-**Стэк:** Python(Base (Pandas, Numpy, SciPy, Math, tqdm) – ML(Scikit-Learn, LightGBM, XGBoost, Catboost) – DL(PyTorch) – Visualization(Matplotlib, Seaborn, Plotly) – Parsing(bs4) – TimeSeries (tslearn, tsfresh).
+**Стэк:** Python(Base (Pandas, Numpy, SciPy, Math, tqdm) – ML(Scikit-Learn, optuna, pipeline, LightGBM, XGBoost, Catboost) – DL(PyTorch) – Visualization(Matplotlib, Seaborn, Plotly) – Parsing(bs4) – TimeSeries (tslearn, tsfresh, sktime) – NLP ( lemmatization, stemming, nltk, TF-IDF, Bag_of_Words) – Git.
   
 ### Увлечения:
 - :camping: Хайкинг, походы;
